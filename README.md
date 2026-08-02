@@ -59,37 +59,37 @@ Modern ERP System including
 ## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,php,c"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,php,c,cpp"/>
 </p>
 
 ## Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,laravel"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,alpinejs,tailwind,bootstrap,laravel,django,flask"/>
 </p>
 
 ## Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite,cassandra,redis"/>
 </p>
 
 ## AI / Data Science
 
 <p>
-<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,sklearn,pytorch"/>
 </p>
 
 <p>
 
-NumPy • Pandas • Scikit-Learn • Matplotlib • OpenCV • Seaborn 
+NumPy • Pandas • Matplotlib • Seaborn 
 
 </p>
 
 ## Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,figma,vercel,netlify,androidstudio,cloudflare,aws,azure,gcp"/>
 </p>
 
 ---
